@@ -11,7 +11,7 @@ Bu ödev 2023-2024 yılı güz dönemi Doğal Dil İşleme Dersi için hazırlan
 2) İnsanlar beğendiği bir içeriğe benzer içerikler tüketmek eğilimdedirler. Örneğim sci-fi izlemekten hoşlanan bir insan rom-com ya da sitcom tarzı içeriklerden genelde hoşlanmaz. İşte bu yüzden de diğer sci-fi içeriklerine yönelme eğiliminde olur. Bu program ise o kişiye istediği eğilimdeki verileri bulmasında büyük bir rol oynamaktadır.
 
 # Ödevi Yapan Kişiler
-Serdar Yaracıer
+Serdar Yaracıer No: 213405074
 
 # Veri setini elde etmek
 
