@@ -38,6 +38,7 @@ type ise verinin türünü belirtirken episodes bahsi geçen anime verisinin ka�
 
 
 Kodumuzda boş veriler olduğunu öğrendik şimdi ise bunlardan kurtulmak için ne yapmamız gerektiğine bakalım. Bu aşamada df.dropna(inplace=True) kodunu kullanıyoruz. Bu kod satırı bizim için boş olarak gördüğü yerlerin silinmesini sağlıyor. Daha sonrasında ise df.isna().sum() koutları ile tekrar bir kontrol gerçekleştirip boş değerlerin temizlendiğinden emin oluyoruz.
+
 ![Ekran görüntüsü 2024-01-10 185315](https://github.com/SerdarYaracier/Ddi_Hw/assets/116540913/bce4f08a-0e8e-4052-93e7-9ca9037abe99)
 
 # Sütunlarda Sıralama Yapmak
